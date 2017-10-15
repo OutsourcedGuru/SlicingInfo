@@ -1,6 +1,9 @@
 # SlicingInfo
 An executable to display slicing information from the indicated GCODE file.
 
+## Overview
+This initial version works with the Cura slicer software. In subsequent versions, I may add support for other softwares but I would need access to GCODE examples first.
+
 ## Syntax
 This assumes that you've installed it per the instructions below so that it will be in your path.
 
