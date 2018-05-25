@@ -88,3 +88,8 @@ $ go get github.com/OutsourcedGuru/SlicingInfo/
 ```
 
 This should download everything required and build it for you. Assuming that you installed Go correctly earlier and it's in your path, you should then be able to run it as in the instructions above.
+
+|Donate||Cryptocurrency|
+|:-----:|---|:--------:|
+| ![eth-receive](https://user-images.githubusercontent.com/15971213/40564950-932d4d10-601f-11e8-90f0-459f8b32f01c.png) || ![btc-receive](https://user-images.githubusercontent.com/15971213/40564971-a2826002-601f-11e8-8d5e-eeb35ab53300.png) |
+|Ethereum||Bitcoin|
